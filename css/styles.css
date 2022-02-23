@@ -266,6 +266,12 @@ cursor: pointer;
   padding-top: 0.5em;
   padding-bottom: 1em; 
 }
+
+.empty_cart{
+  align-content: center;
+  justify-content: center;
+  height:200%;
+}
 .add-to-cart-header{
   border-bottom: 1px solid #E4E9F2;
   margin-bottom: 0.7em;
